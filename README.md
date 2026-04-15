@@ -11,7 +11,7 @@
 | **Name** | Manish Pandey |
 | **Roll Number** | 23053940 |
 | **Program / Batch** | B.Tech CSE |
-| **Academic Year** | 2025 – 2026 |
+| **Academic Year** | 2023 – 2027 |
 | **Tool** | Microsoft Power BI Desktop |
 
 ---
