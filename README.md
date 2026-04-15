@@ -1,10 +1,10 @@
-# 📊 Customer Churn Analysis Dashboard
+# Customer Churn Analysis Dashboard
 
-> **An interactive Power BI dashboard analysing user churn behaviour across a music streaming platform**
+> **An interactive Power BI dashboard for analysing user churn behaviour across a music streaming platform**
 
 ---
 
-## 👤 Student Details
+## Student Details
 
 | Field | Details |
 |-------|---------|
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 A music streaming platform is experiencing a churn rate of **~30.70%** — nearly 1 in 3 users discontinues their subscription. Without data-driven insight into *why* users churn, the business cannot make targeted retention decisions.
 
@@ -24,7 +24,7 @@ This project analyses 4,600 user records to uncover churn patterns across demogr
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Design and deploy an interactive Power BI dashboard that:
 - Tracks real-time KPIs: total users, churned users, active users, and churn rate
@@ -34,7 +34,7 @@ Design and deploy an interactive Power BI dashboard that:
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 **File:** `churn_analysis_dataset.csv`
 
@@ -64,25 +64,25 @@ Design and deploy an interactive Power BI dashboard that:
 
 ---
 
-## 🖥️ Dashboard Preview
+## Dashboard Preview
  
-![Customer Churn Analysis Dashboard]()
+![Customer Churn Analysis Dashboard](https://github.com/manishp4804-beep/customerChurn/blob/main/Customer%20Churn.png)
  
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🔢 KPI Cards
+### KPI Cards
 Four top-level cards give an instant platform health snapshot:
 - **Total Users:** 4.6K
 - **Churned Users:** 1.412K
 - **Active Users:** 3K
 - **Churn Rate:** 30.70%
 
-### 🎛️ Payment Method Filter Panel
+### Payment Method Filter Panel
 Interactive slicer to filter all visuals by: Auto-Debit, Card, UPI, Wallet
 
-### 📊 Visuals Included
+### Visuals Included
 
 | Visual | Insight |
 |--------|---------|
@@ -96,7 +96,7 @@ Interactive slicer to filter all visuals by: Auto-Debit, Card, UPI, Wallet
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -109,7 +109,7 @@ Interactive slicer to filter all visuals by: Auto-Debit, Card, UPI, Wallet
 
 ---
 
-## 💡 Unique Aspects
+## Unique Aspects
 
 - **Multi-dimensional churn analysis** — 7 dimensions in a single dashboard view
 - **Subscription plan delta tracking** — Churn % change from previous to current plan
@@ -120,7 +120,7 @@ Interactive slicer to filter all visuals by: Auto-Debit, Card, UPI, Wallet
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - [ ] **Predictive ML Model** — Embed XGBoost/Logistic Regression for real-time churn probability scores
 - [ ] **Live Data Refresh** — Connect to SQL Server / Azure Synapse with DirectQuery
@@ -132,7 +132,7 @@ Interactive slicer to filter all visuals by: Auto-Debit, Card, UPI, Wallet
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 churn-analysis-dashboard/
@@ -146,7 +146,7 @@ churn-analysis-dashboard/
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for academic purposes as part of the **B.Tech CSE** curriculum.  
 All data used is synthetic and intended solely for educational analysis.
