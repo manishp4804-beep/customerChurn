@@ -18,9 +18,9 @@
 
 ## Problem Statement
 
-A music streaming platform is experiencing a churn rate of **~30.70%** — nearly 1 in 3 users discontinues their subscription. Without data-driven insight into *why* users churn, the business cannot make targeted retention decisions.
+A music streaming platform has a churn rate of about 30.70%. This means nearly 1 in 3 users cancels their subscription. Without data to understand why users leave, the business cannot make informed decisions to keep them.
 
-This project analyses 4,600 user records to uncover churn patterns across demographics, subscription plans, network quality, device usage, and music preferences.
+This project examines 4,600 user records to identify churn patterns based on demographics, subscription plans, network quality, device usage, and music preferences.
 
 ---
 
