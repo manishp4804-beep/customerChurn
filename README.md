@@ -64,6 +64,12 @@ Design and deploy an interactive Power BI dashboard that:
 
 ---
 
+## 🖥️ Dashboard Preview
+ 
+![Customer Churn Analysis Dashboard]()
+ 
+---
+
 ## ✨ Key Features
 
 ### 🔢 KPI Cards
