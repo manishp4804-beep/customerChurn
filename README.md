@@ -26,11 +26,11 @@ This project examines 4,600 user records to identify churn patterns based on dem
 
 ## Objective
 
-Design and deploy an interactive Power BI dashboard that:
-- Tracks real-time KPIs: total users, churned users, active users, and churn rate
-- Segments churn across multiple dimensions simultaneously
-- Enables filtering by payment method for targeted analysis
-- Provides actionable insight for retention and product teams
+Design and launch an interactive Power BI dashboard that:
+- Tracks real-time KPIs: total users, churned users, active users, and churn rate.
+- Segments churn across multiple dimensions at the same time.
+- Lets users filter by payment method for targeted analysis.
+- Gives useful insights for retention and product teams.
 
 ---
 
